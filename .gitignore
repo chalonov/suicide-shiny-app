@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.RProfile
+data/db-app-cluster.xlsx
+data/db-app-dep.xlsx
+data/db-app-mun.xlsx
